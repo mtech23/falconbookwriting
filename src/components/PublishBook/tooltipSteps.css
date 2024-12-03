@@ -1,0 +1,50 @@
+.tooltip-container {
+    position: relative;
+  }
+  
+  .steps-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .step-dot:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s ease;
+  }
+
+  .react-tooltip{
+    background: -webkit-linear-gradient(#EE2849, #AF001D) !important;
+  }
+  
+
+
+  .tooltip-container .step-dot{
+    width: 7% !important;
+    height: 9% !important;
+    opacity: 0;
+}
+.tooltip-container .step-dot.step1 {
+    top: 40.5% !important;
+    left: 5% !important;
+}
+.tooltip-container .step-dot.step2 {
+    left: 17% !important;
+    top: 17% !important;
+}
+.tooltip-container .step-dot.step3 {
+    left: 47% !important;
+    top: 3% !important;
+}
+.tooltip-container .step-dot.step4 {
+    top: 17% !important;
+    right: 18% !important;
+    left: unset !important;
+}
+.tooltip-container .step-dot.step5 {
+    right: 5% !important;
+    left: unset !important;
+    top: 40.4% !important;
+}
+
+
+

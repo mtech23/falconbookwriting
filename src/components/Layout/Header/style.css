@@ -1,0 +1,18 @@
+
+.header_navbar{
+    position: absolute;
+    width: 100%;
+    padding-top: 12px;
+    z-index: 999;
+}
+
+.text-with-icon {
+    display: flex;
+    gap: 11px;
+    align-items: center;
+}
+
+.text-with-icon .navbar_para {
+    border: unset;
+    padding: 0;
+}

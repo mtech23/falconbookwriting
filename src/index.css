@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "PTSans";
+  src: url("./asserts/fonts/PTSans-Regular.ttf");
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "poppinsRegular";
+  src: url("./asserts/fonts/Poppins-Regular.ttf");
+}
+
+@font-face {
+  font-family: "poppinsLight";
+  src: url("./asserts/fonts/Poppins-Light.ttf");
+}
+
+@font-face {
+  font-family: "poppinsMedium";
+  src: url("./asserts/fonts/Poppins-Medium.ttf");
+}
+
+@font-face {
+  font-family: "poppinsbold";
+  src: url("./asserts/fonts/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: "poppinsSemibold";
+  src: url("./asserts/fonts/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "poppinsExtrabold";
+  src: url("./asserts/fonts/Poppins-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "khandRegular";
+  src: url("./asserts/fonts/Khand-Regular.ttf");
+}
+
+@font-face {
+  font-family: "khandBold";
+  src: url("./asserts/fonts/Khand-Bold.ttf");
+}
+
+@font-face {
+  font-family: "khandMedium";
+  src: url("./asserts/fonts/Khand-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Jomolhari";
+  src: url("./asserts/fonts/Jomolhari-Regular.ttf");
+}
+@font-face {
+  font-family: "Hind";
+  src: url("./asserts/fonts/Hind.ttf");
+}
+@font-face {
+  font-family: "HindBold";
+  src: url("./asserts/fonts/Hind-Bold.woff");
+}
